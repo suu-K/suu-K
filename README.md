@@ -18,6 +18,8 @@
     - 기획자용 유니티 에디터 확장 툴 구현
     - 구글 스프레드 시트 및 엑셀 연동 데이터 파이프라인 구축
     - 큐 기반의 이펙트 관리 시스템
+- 개발 링크
+    - https://github.com/TeamSeedTurn-basedGame/Hope_Elpis/tree/ReHope
 - 데모 링크
     - 구 https://store.steampowered.com/app/3125920/Hope__Elpis/
     - 신 https://store.onstove.com/games/4803?timestamp=1757833200&fromLauncher=true
@@ -36,6 +38,8 @@
     - 기획자용 유니티 에디터 확장 툴 구현
     - 구글 스프레드 시트 및 엑셀 연동 데이터 파이프라인 구축
 - 출시일 : 2026.04.16
+- 개발 링크
+    - https://github.com/TeamSeedTurn-basedGame/Hope_Elpis/tree/CoF
 - 출시 링크
     - https://store.steampowered.com/app/4557900/Coin_of_Fate
 
